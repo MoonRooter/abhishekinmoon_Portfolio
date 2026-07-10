@@ -82,14 +82,7 @@ Every push to the GitHub repository automatically updates the live website.
 
 ---
 
-## 🤝 Connect With Me
 
-- 🌐 Portfolio: https://abhishekinmoon.pages.dev
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 🐙 GitHub: https://github.com/yourusername
-- 📧 Email: *(Add your email)*
-
----
 
 ## ⭐ Support
 
