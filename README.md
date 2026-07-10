@@ -69,14 +69,6 @@ Every push to the GitHub repository automatically updates the live website.
 
 ---
 
-## 📸 Preview
-
-Replace this image with a screenshot of your portfolio.
-
-```
-assets/images/portfolio-preview.png
-```
-
 ---
 
 ## 📈 Future Improvements
