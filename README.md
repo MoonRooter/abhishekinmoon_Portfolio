@@ -1,4 +1,4 @@
-# 🌐 Personal Cybersecurity Portfolio
+# 🌐 Personal Portfolio
 
 Welcome to my personal portfolio website! This project showcases my cybersecurity journey, certifications, technical skills, projects, and achievements.
 
