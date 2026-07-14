@@ -1,21 +1,21 @@
 # 🌐 Personal Portfolio
 
-Welcome to my personal portfolio website! This project showcases my cybersecurity journey, certifications, technical skills, projects, and achievements.
+Welcome to my personal portfolio website! This project showcases my journey, technical skills, projects, and achievements.
 
-🔗 **Live Website:** https://abhishekinmoon-portfolio.pages.dev/
+🔗 **Live Website:** https://abhishekinmoon.vercel.app/
 
 ---
 
 ## 🚀 About
 
-This portfolio was built to create a professional online presence and showcase my work in cybersecurity and web development.
+This portfolio was built to create a professional online presence and showcase my work in web development, programming, and mathematics.
 
 It includes:
 
 - 👨‍💻 About Me
-- 🛡️ Cybersecurity Skills
-- 📜 Certifications
+- 🛠️ Programming & Core Skills
 - 💼 Projects
+- 📊 Academic Work
 - 📄 Resume
 - 📞 Contact Information
 - 🌙 Responsive & Modern Design
@@ -29,7 +29,7 @@ It includes:
 - JavaScript
 - Git
 - GitHub
-- Cloudflare Pages
+- Vercel (Hosting & Deployment)
 
 ---
 
@@ -41,7 +41,7 @@ It includes:
 - Modern UI
 - Easy navigation
 - Professional portfolio layout
-- Automatic deployment with Cloudflare Pages
+- Automatic deployment with Vercel
 
 ---
 
@@ -61,34 +61,29 @@ It includes:
 
 ---
 
+---
+
 ## 🌍 Deployment
 
-This website is deployed using **Cloudflare Pages**.
+This website is deployed using **Vercel**.
 
-Every push to the GitHub repository automatically updates the live website.
-
----
+Every push to the `main` branch of this GitHub repository automatically triggers Vercel to rebuild and update the live production website.
 
 ---
 
 ## 📈 Future Improvements
 
-- Dark/Light Theme
-- Blog Section
-- Project Filtering
-- Contact Form
-- More Interactive Animations
-- More Cybersecurity Projects
+- Dark/Light Theme Toggle
+- Advanced Project Filtering
+- Contact Form Integration
+- Interactive Animations & UI Enhancements
+- More Advanced Programming Projects
 
 ---
 
-
-
 ## ⭐ Support
 
-If you like this project, consider giving it a **⭐ Star** on GitHub.
-
-It motivates me to build more open-source and cybersecurity projects.
+If you like this project, consider giving it a **⭐ Star** on GitHub. It motivates me to continue building and open-sourcing more projects!
 
 ---
 
