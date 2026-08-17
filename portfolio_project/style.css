@@ -295,7 +295,7 @@
 }
 
 .certification-card {
-    display: flex;
+    display: center;
     flex-direction: column;
     height: 100%;
 }
